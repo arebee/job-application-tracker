@@ -1,0 +1,8 @@
+{
+	"interactiveWindow.executeWithShiftEnter": false,
+	"editor.fontFamily": "Cascadia Code, monospace",
+	"editor.renderWhitespace": "all",
+	"files.associations": {
+		"*.css": "tailwindcss"
+	}
+}
