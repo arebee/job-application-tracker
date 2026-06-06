@@ -37,8 +37,10 @@ Default local credentials (if using `.env.example` values from the plan):
 | Script | Description |
 |--------|-------------|
 | `npm run dev` | Development server |
+| `npm run dev-host` | Development server and make available on local network |
 | `npm run build` | Production build |
 | `npm run preview` | Preview production build |
+| `npm run preview` | Preview production build and make available on local network |
 | `npm run db:migrate` | Apply SQLite migrations |
 | `npm run db:generate` | Generate Drizzle migration SQL |
 | `npm run check` | Typecheck |
