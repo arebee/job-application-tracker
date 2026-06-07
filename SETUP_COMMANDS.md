@@ -3,7 +3,7 @@
 Run these in your terminal from the project root:
 
 ```bash
-cd "/Volumes/Marvin/projects/job applicaftion tracker"
+cd "/Volumes/Marvin/projects/job application tracker"
 ```
 
 ## 1. Install dependencies (if not already done)
